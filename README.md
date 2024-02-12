@@ -1,8 +1,4 @@
-### Hi there 👋
-
-### Full-Stack Software Engineer
-
-Hi there! 👋 
+### Hi there! 👋 
 
 As a Full-Stack Developer, I thrive on the challenges of coding and the satisfaction of solving complex problems. My goal is to bridge the gap between people and technology to create solutions that improve lives. 
 
