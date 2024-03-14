@@ -5,9 +5,9 @@ As a Full-Stack Developer, I thrive on the challenges of coding and the satisfac
 My drive for continuous learning propels me to explore new technologies and refine my craft. I'm especially passionate about JavaScript-based technologies. 
 Here's a snapshot of my technical toolkit:
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, Koa
-- **Database**: MongoDB, SQL
+- **Frontend**: React, Next.js, Angular, Tailwind CSS
+- **Backend**: Node.js, Express, Koa, REST, GraphQL
+- **Database**: MongoDB, PostgreSQL
 - **Real-time Communication**: Socket.io
 - **Languages**: JavaScript, TypeScript
 
